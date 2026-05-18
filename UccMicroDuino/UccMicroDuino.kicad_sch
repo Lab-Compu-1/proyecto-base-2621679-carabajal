@@ -2445,7 +2445,7 @@
 		)
 		(uuid "2fbea8ad-edb5-49ea-93cc-1c829ade2db4")
 	)
-	(text "Main Circuit"
+	(text "Circuito Principal\n"
 		(exclude_from_sim no)
 		(at 55.1942 140.9954 0)
 		(effects
