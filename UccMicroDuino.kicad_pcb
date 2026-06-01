@@ -3348,24 +3348,24 @@
 		(uuid "a0809b0c-69d6-4cf8-b9c4-f480cacc19ff")
 	)
 	(gr_line
-		(start 183 65.5)
-		(end 187 68.5)
+		(start 183.75 66.125)
+		(end 189.25 70.625)
 		(stroke
 			(width 0.2)
 			(type default)
 		)
 		(layer "F.Cu")
-		(uuid "d8195d85-ab5c-42aa-99d9-fa8d315d3888")
+		(uuid "5d1ace28-54b2-415b-9ab2-e879d17a90b1")
 	)
 	(gr_line
-		(start 187 65)
-		(end 182 69.5)
+		(start 189 67)
+		(end 184 69.75)
 		(stroke
 			(width 0.2)
 			(type default)
 		)
 		(layer "F.Cu")
-		(uuid "66f68525-c700-42c8-b32e-06bfdeaf6133")
+		(uuid "251c2e96-92ac-433a-ae60-002dac89f058")
 	)
 	(gr_rect
 		(start 162.178718 63)
